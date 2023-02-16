@@ -1,11 +1,5 @@
-Project started and maintained by StreamFroster (MagusWyvern)
+## Main Page for the MARA Junior Science College Gemencheh's Website
 
-To contribute you have to email me your application including your name and matrix number at (maguswyvern@gmail.com)
+Accepting contributions! Feel free to open a pull request.
 
-Changes made will have to pass through checks before being uploaded to Origin.
 
-To Do:
-
-1. PHP Form Code
-2. BKP section of the whole website
-3. Pictures and descriptions for 'Latar Belakang' Page
